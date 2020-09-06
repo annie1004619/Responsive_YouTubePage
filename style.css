@@ -82,11 +82,9 @@ a{
     display:flex;
     align-items: center;
     color:gray;
+    justify-content: space-around;
 }
 
-#icons li{
-   padding:0px 7%;
-}
 
 #icons div{
     font-size:12px;
